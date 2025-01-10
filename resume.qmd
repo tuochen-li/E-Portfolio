@@ -3,7 +3,7 @@ title: "Resume"
 ---
 
 # Education
--   UBC, M.G.E.M., Expected Graduation, 2025
+-   UBC, M.G.E.M., Expected Graduation 2025
 
 -   UBC, B.A. (Major in Geography), 2024
 
@@ -15,7 +15,7 @@ title: "Resume"
 
 *Reports:*
 
--   List any non-peer reviewed materials you'd like to share here.
+-   List any non-peer reviewed materials you'd like to share here. 
 
 # Conferences & Talks
 
